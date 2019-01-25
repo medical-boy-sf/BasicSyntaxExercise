@@ -40,4 +40,3 @@ function thePyramidOfKingDjoser(base, increment) {
     console.log(`Gold required: ${gold}`);
     console.log(`Final pyramid height: ${totalHeight}`);
 }
-thePyramidOfKingDjoser(5, 1);
