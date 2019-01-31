@@ -1,5 +1,5 @@
 function division(number) {
-    number = Number(number);
+    let number = Number(number);
     let maxDivider = 0;
 
     if(number % 10 == 0) {
