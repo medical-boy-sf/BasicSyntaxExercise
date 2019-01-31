@@ -1,7 +1,7 @@
 function vacation(groupOfPeople, typeOfGroup, dayOfWeek) {
-    let groupOfPeople = Number(groupOfPeople);
-    let typeOfGroup = typeOfGroup.toLowerCase();
-    let dayOfWeek = dayOfWeek.toLowerCase();
+    groupOfPeople = Number(groupOfPeople);
+    typeOfGroup = typeOfGroup.toLowerCase();
+    dayOfWeek = dayOfWeek.toLowerCase();
     let price = 0;
     let discount = 0;
 

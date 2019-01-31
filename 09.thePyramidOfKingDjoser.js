@@ -1,6 +1,6 @@
 function thePyramidOfKingDjoser(base, increment) {
-    let base = parseFloat(base);
-    let increment = parseFloat(increment);
+    base = parseFloat(base);
+    increment = parseFloat(increment);
     let totalHeight = 0;
     let stone = 0;
     let marble = 0;

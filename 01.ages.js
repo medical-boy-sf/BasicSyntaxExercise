@@ -1,5 +1,5 @@
 function ages(age) {
-    let age = Number(age);
+    age = Number(age);
     if (age >= 66) {
         console.log("elder");
     } else if (age >= 20) {

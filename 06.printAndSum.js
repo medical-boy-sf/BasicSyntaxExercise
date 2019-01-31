@@ -1,6 +1,6 @@
 function printAndSum(start, end) {
-    let start = Number(start);
-    let end = Number(end);
+    start = Number(start);
+    end = Number(end);
     let sum = 0;
     let sequence = "";
 
